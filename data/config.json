@@ -3,7 +3,7 @@
   "documentName": "Kunst trial",
   "iiifManifest": "/dcekunckel/kunst/iiif/manifest.json",
   "transcriptionTypes": {
-    "ranscription": "Transcription"
+    "transcription": "Transcription"
   },
   "viewerUrl": "/dcekunckel"
 }
