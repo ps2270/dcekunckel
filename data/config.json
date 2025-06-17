@@ -1,7 +1,7 @@
 {
   "id": "ec",
-  "documentName": "Hamilton Letter",
-  "iiifManifest": "/dcekunckel/hamilton/iiif/manifest.json",
+  "documentName": "Kunst trial",
+  "iiifManifest": "/dcekunckel/kunst/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
   },
